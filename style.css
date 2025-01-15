@@ -1,5 +1,5 @@
 /* Stile per i post del blog */
-.post-outer-container {
+article.post-outer-container {
   border-radius: 15px; /* Arrotonda i bordi */
   overflow: hidden; /* Evita contenuti che escono dai bordi */
 }
